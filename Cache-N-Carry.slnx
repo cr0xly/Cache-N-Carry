@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Cache-N-Carry/Cache-N-Carry.vcxproj" />
+  <Project Path="Cache-N-Carry/Cache-N-Carry.vcxproj" Id="5f904cda-8f4a-4bee-b4f1-7ee1202f046d" />
 </Solution>
